@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Fenerbahçeliyim**
 
 
-<h3 align="left"> 📩 Connect with me </h3>
+<h3 align="left"> 📩 Contact with me </h3>
 
 <div><div align="left">
 
