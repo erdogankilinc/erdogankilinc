@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Erdogan</h1>
-<h3 align="left">Computer Engineering Student</h3>
+<h3 align="left">Computer Engineering Student at Fenerbahce University</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
