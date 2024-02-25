@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Unity 2D Game**
 
-- 🌱 I’m currently learning **Garanti BBVA Security Bootcamp, Unity**
+- 🌱 I’m currently learning **Unity, Android Studio**
 
 - ⚡ Fun fact **Fenerbahçeliyim**
 
