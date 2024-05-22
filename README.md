@@ -22,7 +22,7 @@
 
 </div>
 
-[instagram]: https://www.instagram.com/erd0yum
+[instagram]: https://www.instagram.com/erd0yum._
 [linkedin]: https://www.linkedin.com/in/erdogankilinc/
 [gmail]: mailto:erdogankilinc35@gmail.com
   
