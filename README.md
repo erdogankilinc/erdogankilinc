@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Erdogan</h1>
-<h3 align="left">Computer Engineering Student at Fenerbahce University</h3>
+<h3 align="left">Graduated from the Computer Engineering of Fenerbahçe University</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdogankilinc&label=Profile%20views&color=0e75b6&style=flat" alt="erdogankilinc" /> </p> 
 
-- 🔭 I’m currently working on **Unity 2D Game**
 
-- 🌱 I’m currently learning **Unity, Android Studio**
+
+- 🌱 I’m currently learning **Android Studio**
 
 - ⚡ Fun fact **Fenerbahçeliyim**
 
