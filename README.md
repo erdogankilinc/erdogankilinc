@@ -7,11 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **Android Studio**
-
-- ⚡ Fun fact **Fenerbahçeliyim**
-
-
 <h3 align="left"> 📩 Contact with me </h3>
 
 <div><div align="left">
