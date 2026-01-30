@@ -17,7 +17,7 @@
 
 </div>
 
-[instagram]: https://www.instagram.com/erdoyum._/
+[instagram]: https://www.instagram.com/erdogank._/
 [linkedin]: https://www.linkedin.com/in/erdogankilinc/
 [gmail]: mailto:erdogankilinc35@gmail.com
   
